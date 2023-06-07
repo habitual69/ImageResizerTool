@@ -64,6 +64,3 @@ ImageResizerTool/
 - `converted/`: The directory to store converted images.
 - `compressed/`: The directory to store compressed images.
 - `ImageResizerTool.exe`: The Windows executable build of the Image Resizer Tool.
-
-
-```
